@@ -1,0 +1,14 @@
+[
+    {
+      "x2": "false",
+      "name": "Minsk",
+      "online": 2,
+      "maxonline": 500
+    },
+    {
+      "x2": "false",
+      "name": "Krasnodar",
+      "online": 2,
+      "maxonline": 500
+    }
+ ]
